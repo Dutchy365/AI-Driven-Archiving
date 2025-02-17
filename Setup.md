@@ -16,8 +16,8 @@ Overall, the project simplifies and accelerates the archiving process, ensuring 
 |Name|| 
 |---|---|
 |Elianne Burgers | [GitHub](https://github.com/Dutchy365) |
-|Ruben Baars| [GitHub]()
-|Richard Wierenga| [GitHub](https://github.com/richardwie) ()
+|Ruben Baars| [GitHub]()|
+|Richard Wierenga| [GitHub](https://github.com/richardwie) |
 
 ## Architecture
 The architecture which supports this process:
