@@ -13,4 +13,4 @@ The solution incorporates AI-powered assessments to generate summaries of the si
 Overall, the project simplifies and accelerates the archiving process, ensuring proper lifecycle management of SharePoint sites with the help of AI technology.
 
 
-How to have your own Power App to support this process, please read the [setup file](/setup.md).
+How to have your own Power App to support this process, please read the [setup file](/Setup.md).
