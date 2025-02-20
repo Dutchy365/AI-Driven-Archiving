@@ -27,7 +27,7 @@ The architecture which supports this process:
 
 
 ## Scope
-The scope for this setup description is the setup of the Poewr Platform related artifacts. 
+The scope for this setup description is the setup of the Power Platform related artifacts. If you are interested in the other details, please reach out.
 For the use case of the Powerful Hackathon 2025 all Power Platform related artifacts are available in one solution.
 An unmanaged version of this solution can be [downloaded here]().
 
