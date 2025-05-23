@@ -19,4 +19,4 @@ How to have your own Power App to support this process, please read the [setup f
 ## Video
 Explanation of the solution in video format:
 
-![Video](https://rawcdn.githack.com/Dutchy365/AI-Driven-Archiving/refs/heads/main/assets/AIDrivenArchiving-HackTogether2025.mp4)
+![Video](https://raw.githack.com/Dutchy365/AI-Driven-Archiving/refs/heads/main/assets/AIDrivenArchiving-HackTogether2025.mp4)
