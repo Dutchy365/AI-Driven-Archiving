@@ -23,3 +23,4 @@ Explanation of the solution in video format:
 
 
 
+<video src="https://github.com/Dutchy365/AI-Driven-Archiving/raw/refs/heads/main/assets/AIDrivenArchiving-HackTogether2025.mp4"></video>
