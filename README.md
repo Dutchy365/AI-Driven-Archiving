@@ -14,3 +14,9 @@ Overall, the project simplifies and accelerates the archiving process, ensuring 
 
 
 How to have your own Power App to support this process, please read the [setup file](/Setup.md). 
+
+
+## Video
+Explanation of the solution in video format:
+
+[![Video](/assets/AIDrivenArchiving-HackTogether2025.mp4)]
